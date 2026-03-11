@@ -17,13 +17,12 @@
 
 A professional and highly motivated **Software Engineer**, passionate about designing robust architectures and building scalable, user-centric applications. I focus on delivering clean, maintainable, and high-performance solutions from the infrastructure level up to the user interface.
 
-* 🚀 **Current Focus:** Developing **ChatOnion**, a highly operational decentralized P2P chat application leveraging complex network architectures (Kademlia DHT) and secure message handling.
-* ⚙️ **Engineering Mindset:** Applying strict architectural patterns (Singleton, Factory, Store) and reactive state management to ensure scalable and reliable codebases.
-* ☁️ **Infrastructure & Reliability:** Passionate about Docker, environment automation, and improving system stability to build fault-tolerant workflows.
-* 🧪 **Quality Assurance:** Committed to engineering best practices, writing well-tested code, and improving test coverage to reduce regressions.
-* 🤝 **Collaboration:** Driven by creating inclusive user experiences and tackling new challenges in fast-paced environments.
+* **Current Focus:** Developing **ChatOnion**, a highly operational decentralized P2P chat application leveraging complex network architectures (Kademlia DHT) and secure message handling.
+* **Engineering Mindset:** Applying strict architectural patterns (Singleton, Factory, Store) and reactive state management to ensure scalable and reliable codebases.
+* **Infrastructure & Reliability:** Passionate about Docker, environment automation, and improving system stability to build fault-tolerant workflows.
+* **Quality Assurance:** Committed to engineering best practices, writing well-tested code, and improving test coverage to reduce regressions.
+* **Collaboration:** Driven by creating inclusive user experiences and tackling new challenges in fast-paced environments.
 
-* 📫 **Reach me at:** [המייל שלך]@gmail.com
 
 ### 🛠️ My Skills
 <p align="left">
