@@ -23,15 +23,16 @@ A professional and highly motivated **Software Engineer**, passionate about desi
 * 🧪 **Quality Assurance:** Committed to engineering best practices, writing well-tested code, and improving test coverage to reduce regressions.
 * 🤝 **Collaboration:** Driven by creating inclusive user experiences and tackling new challenges in fast-paced environments.
 
+* 📫 **Reach me at:** [המייל שלך]@gmail.com
 
-### 🛠️ My Skills:
+### 🛠️ My Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,docker,html,css,js,git,github,vscode,linux" alt="My Skills" />
 </p>
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/avivbinder" target="_blank">
+  <a href="https://www.linkedin.com/in/avivbinder" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
