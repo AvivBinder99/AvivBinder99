@@ -8,8 +8,8 @@
 
 * 🎓 B.Sc Computer Science
 * 💻 Software Developer @ [שם החברה שלך או Open to work]
-* 📬 Reach me at: **[המייל שלך]@gmail.com**
-* 🌐 [My Portfolio](כאן_תשים_את_הלינק_לאתר_שלך)
+* 📬 Reach me at: **binderaviv@gmail.com**
+
 
 ---
 
