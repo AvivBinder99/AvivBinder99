@@ -23,7 +23,6 @@ A professional and highly motivated **Software Engineer**, passionate about desi
 * 🧪 **Quality Assurance:** Committed to engineering best practices, writing well-tested code, and improving test coverage to reduce regressions.
 * 🤝 **Collaboration:** Driven by creating inclusive user experiences and tackling new challenges in fast-paced environments.
 
-* 📫 **Reach me at:** binderaviv@gmail.com
 
 ### 🛠️ My Skills:
 <p align="left">
