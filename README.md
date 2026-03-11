@@ -19,12 +19,9 @@
 * 📫 How to reach me: **your.email@example.com**
 * ⚡ Fun fact: I love building decentralized systems!
 
-### 🛠️ My Skills
+### 🛠️ My Skills:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=py,docker,html,css,js,git,github,vscode,linux" alt="My Skills" />
 </p>
 
 ### 🤝 Connect with me
