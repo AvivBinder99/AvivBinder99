@@ -7,7 +7,7 @@
 </p>
 
 * 🎓 B.Sc Computer Science
-* 💻 Software Developer @ [שם החברה שלך או Open to work]
+* 💻 Software Developer @Open To Work
 * 📬 Reach me at: **binderaviv@gmail.com**
 
 
